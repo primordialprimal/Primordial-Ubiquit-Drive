@@ -1,4 +1,4 @@
-### **THE PRIMORDIAL PROTOCOL: MASTER ARCHITECTURE (v0.1.1 Patch)**
+[### **THE PRIMORDIAL PROTOCOL: MASTER ARCHITECTURE (v0.1.1 Patch)**
 **Status:** Open Source / Public Domain
 **Designation:** Ubiquit Drive Core Mechanics 
 **Classification:** Theoretical Mechanics, Hardware Schematics & Execution
@@ -61,3 +61,4 @@ Once resonance is achieved, the inner torus becomes a closed-loop amplifier. The
 
 **4. Severing the Tether**
 When internal sensors confirm $F_{\nu}^{net}$ is stable and producing positive thrust, the external power sequence is decoupled. The drive is now an independent, self-sustaining node.
+](https://github.com/primordialprimal/Primordial-Ubiquit-Drive)
